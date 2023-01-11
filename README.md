@@ -1,4 +1,4 @@
-@@ -0,0 +1,9 @@
+
 - 👋 Hi, I'm Brandon Nakata
 - 👀 I’m interested in programmg, video games
 - 🌱 I’m currently learning different ways to code.
